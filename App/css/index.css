@@ -51,15 +51,15 @@ a{text-decoration: none; background: transparent; }
 
 .tarifs{background: transparent; font-size: 25px; font-weight: bold; margin-left: 10%; }
 /*Les styles de tout les bloc tarifs et les titres du types blocs*/
-.bloc-tarifs-view{background: rgb(61, 17, 1);  width: 90%; height: auto; margin-left: 5%; margin-top: 4.8%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
-.bloc-tarifs-view-two{background: transparent;  width: 90%; height: auto; margin-left: 5%; margin-top: 10%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
-.bloc-tarifs-view-true{background: rgb(61, 17, 1);  width: 90%; height: auto; margin-left: 5%; margin-top: 10%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
-.bloc-tarifs-view-four{background: transparent; width: 90%; height: auto; margin-left: 5%; margin-top: 10%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
-.bloc-tarifs-view-five{background: rgb(61, 17, 1); width: 90%; height: auto; margin-left: 5%; margin-top: 10%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
-.bloc-tarifs-view-six{background: transparent; width: 90%; height: auto; margin-left: 5%; margin-top: 10%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
+.bloc-tarifs-view{background: rgb(61, 17, 1);  width: 90%; height: auto; margin-left: 5%; margin-top: 4.8%; padding-bottom: 7%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
+.bloc-tarifs-view-two{background: transparent;  width: 90%; height: auto; margin-left: 5%; margin-top: 10%; padding-bottom: 7%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
+.bloc-tarifs-view-true{background: rgb(61, 17, 1);  width: 90%; height: auto; margin-left: 5%; margin-top: 10%; padding-bottom: 7%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
+.bloc-tarifs-view-four{background: transparent; width: 90%; height: auto; margin-left: 5%; margin-top: 10%; padding-bottom: 7%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
+.bloc-tarifs-view-five{background: rgb(61, 17, 1); width: 90%; height: auto; margin-left: 5%; margin-top: 10%; padding-bottom: 7%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
+.bloc-tarifs-view-six{background: transparent; width: 90%; height: auto; margin-left: 5%; margin-top: 10%; padding-bottom: 7%; border-radius: 0.5rem; border: 2px solid rgb(61, 17, 1);}
 /*Le bloc application web*/
 hr{background: rgb(255, 255, 255); width: 80%; margin-left: 10.2%;}
-.title-tarifs-view{background: transparent; color: rgb(255, 255, 255); width: auto; font-size: 24px; font-weight: 600; text-align: center; margin-top: 4%;}
+.title-tarifs-view{background: transparent; color: rgb(255, 255, 255); width: auto; font-size: 24px; font-weight: 600; text-align: center; margin-top: 4%; margin-bottom: 4%;}
 .para-1{background: transparent; color: rgb(255, 255, 255); width: auto; font-size: 12px; font-weight: 600; text-align: center; margin-top: 3%;}
 .para-2{background: transparent; color: rgb(255, 255, 255); width: auto; font-size: 12px; font-weight: 600; text-align: center; margin-top: 2%;}
 .para-3{background: transparent; color: rgb(255, 255, 255); width: auto; font-size: 12px; font-weight: 600; text-align: center; margin-top: 2%;}
@@ -71,7 +71,7 @@ hr{background: rgb(255, 255, 255); width: 80%; margin-left: 10.2%;}
 .prix-home{background: rgb(255, 255, 255); color: rgb(0, 0, 0);  width: 80%; font-size: 12px; text-align: center; font-weight: bold; padding: 3%; margin-left: 10%; margin-top: 8%; border-radius: 5px;}
 /*Le bloc MVP*/
 .hr-mvp{background: rgb(0, 0, 0);}
-.title-tarifs-view-mvp{background: transparent; color: rgb(0, 0, 0); width: auto; font-size: 24px; font-weight: 600; text-align: center; margin-top: 4%;}
+.title-tarifs-view-mvp{background: transparent; color: rgb(0, 0, 0); width: auto; font-size: 24px; font-weight: 600; text-align: center; margin-top: 4%; margin-bottom: 4%;}
 .para-1-mvp{background: transparent; color: rgb(0, 0, 0); width: auto; font-size: 12px; font-weight: 600; text-align: center; margin-top: 3%;}
 .para-2-mvp{background: transparent; color: rgb(0, 0, 0); width: auto; font-size: 12px; font-weight: 600; text-align: center; margin-top: 2%;}
 .para-3-mvp{background: transparent; color: rgb(0, 0, 0); width: auto; font-size: 12px; font-weight: 600; text-align: center; margin-top: 2%;}
@@ -88,7 +88,7 @@ hr{background: rgb(255, 255, 255); width: 80%; margin-left: 10.2%;}
 /*Le bloc site web*/
 .title-tarifs-view-site-web{background: transparent; color: rgb(0, 0, 0); width: auto; font-size: 24px; font-weight: 600; text-align: center; margin-top: 4%;}
 
-#footer{background: rgb(255, 255, 255); position: absolute; width: 100%; height: 5%; margin-top: 4%;}
+#footer{background: rgb(255, 255, 255); position: absolute; width: 100%; height: 0.2%; margin-top: 2%;}
 
 
 .result-settings{background: black; display: none; position: absolute; width: 100%; height: 40rem;}
