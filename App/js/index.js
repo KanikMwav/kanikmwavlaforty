@@ -17,12 +17,13 @@ document.getElementById('icon-hidden-bloc-header') . addEventListener('click', f
     var body = document.getElementById('main');
     if (bloc.style.display === 'none' && body.style.position === 'absolute') {
         bloc.style.display = 'block';
-        body.style.position = 'fixed'
+        body.style.position = 'fixed';
     } else {
         bloc.style.display = 'none';
-        body.style.position = 'absolute'
+        body.style.position = 'absolute';
     }
 });
+
 
 document.getElementById('icon-close') . addEventListener('click', function(){
     var bloc = document.getElementById('bloc-hidden-result');
